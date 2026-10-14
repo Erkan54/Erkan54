@@ -55,7 +55,7 @@ BLE ve Wi-Fi Direct ile GSM/internet erişiminden bağımsız P2P iletişim: bas
 - [Kişisel portfolyo](https://github.com/Erkan54/ahmetnurullaherkanCV) — TypeScript ile interaktif dijital özgeçmiş.
 - [MAT & ALPGÜL Hukuk](https://github.com/Erkan54/mat-hukuk) — Kurumsal web platformu ve Web3Forms iletişim otomasyonu.
 - [QR Sipariş Sistemi v3](https://github.com/Erkan54/QR-order-systemV3.0) — Menü, masa, sipariş ve işletme yönetimi.
-- [Fonsohbet](https://github.com/Erkan54/fonsohbet) — Gerçek zamanlı sesli ve yazılı iletişim.
+- [FonSohbet](https://github.com/Erkan54/fonsohbet) — TEFAS fon verileri, fiyat geçmişi ve yatırımcı tartışmaları için React/Supabase finans platformu.
 
 ## Basında & iletişim
 
