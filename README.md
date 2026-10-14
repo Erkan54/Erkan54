@@ -51,7 +51,7 @@ BLE ve Wi-Fi Direct ile GSM/internet erişiminden bağımsız P2P iletişim: bas
 
 ## Diğer seçili çalışmalar
 
-- [HatimTakip](https://github.com/Erkan54/HatimTakip) — Flutter/Firebase ile ortak hatim ve özel grup ilerleme takibi.
+- [Afet İletişim Ağı · Google Play](https://play.google.com/store/apps/details?id=com.afetiletisim.deprem&hl=tr) — İnternetsiz bas-konuş telsiz, mesajlaşma ve otomatik yardım çağrısı.
 - [Kişisel portfolyo](https://github.com/Erkan54/ahmetnurullaherkanCV) — TypeScript ile interaktif dijital özgeçmiş.
 - [MAT & ALPGÜL Hukuk](https://github.com/Erkan54/mat-hukuk) — Kurumsal web platformu ve Web3Forms iletişim otomasyonu.
 - [QR Sipariş Sistemi v3](https://github.com/Erkan54/QR-order-systemV3.0) — Menü, masa, sipariş ve işletme yönetimi.
